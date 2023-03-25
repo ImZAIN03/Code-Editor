@@ -1,0 +1,4 @@
+Project Files for How to Create an Online Code Editor with HTML, CSS and JavaScript
+
+Note: The fonts might not be the same if you don't have Poppins installed on
+you machine
